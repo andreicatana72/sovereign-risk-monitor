@@ -1,0 +1,8 @@
+pandas
+requests
+wbdata
+fredapi
+python-dotenv
+openpyxl
+pyarrow
+jupyter
